@@ -1,3 +1,15 @@
+## [2.44.2](https://github.com/appium/appium-espresso-driver/compare/v2.44.1...v2.44.2) (2024-07-09)
+
+### Miscellaneous Chores
+
+* Remove extra import ([7d8dbfd](https://github.com/appium/appium-espresso-driver/commit/7d8dbfd9b44052935fd707d26c5816d4bcca50cc))
+
+## [2.44.1](https://github.com/appium/appium-espresso-driver/compare/v2.44.0...v2.44.1) (2024-07-04)
+
+### Miscellaneous Chores
+
+* Improve gradle log strings handling ([#1019](https://github.com/appium/appium-espresso-driver/issues/1019)) ([7ab3404](https://github.com/appium/appium-espresso-driver/commit/7ab3404809a4c1c4ffc4286bb318d4d3351b5365))
+
 ## [2.44.0](https://github.com/appium/appium-espresso-driver/compare/v2.43.0...v2.44.0) (2024-06-28)
 
 ### Features
